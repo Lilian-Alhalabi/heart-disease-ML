@@ -44,4 +44,4 @@ By allowing users to upload their patient data (CSV or Excel), this tool makes M
 
 > ⚠️ Note: This is a **preliminary diagnostic tool**. It should **not replace professional medical advice**. Always consult a healthcare professional for clinical diagnosis.
 
-## Author: Lilian Alhalabi
+## Author: Lilian Alhalabi            https://github.com/Lilian-Alhalabi
